@@ -1,2 +1,13 @@
-.kt-footer .kt-footer__copyright .kt-link {
-  color: #a7abc3; }
+.kt-footer .kt-footer__copyright {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin: 0;
+    padding: 0 1.25rem 0 0;
+    font-size: 1rem;
+    font-weight: 400;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    color: red;
+}
