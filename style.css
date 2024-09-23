@@ -22606,11 +22606,11 @@ body {
   -webkit-box-pack: start;
   -ms-flex-pack: start;
   justify-content: flex-start;
-  color: #f20707; }
+  color: #ff0101; }
 .kt-footer .kt-footer__copyright .kt-link {
-  color: #f20707; }
+  color: #ff0101; }
 .kt-footer .kt-footer__copyright .kt-link:hover {
-  color: #5d78ff; }
+  color: #ff0101; }
 .kt-footer .kt-footer__copyright .kt-link:hover:after {
   border-bottom: 1px solid #5d78ff;
   opacity: 0.3; }
